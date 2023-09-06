@@ -8,7 +8,7 @@
 
 ![c2](https://github.com/B171406/PHP_CRUD/assets/119347640/03a138fd-75f8-49f6-b8f3-9c7b9cb2dd9b)
 
-**GET THE STUDENT  ADDRESS DATA**
+**GET THE STUDENT  DATA**
 
 ![r1](https://github.com/B171406/PHP_CRUD/assets/119347640/1db907b6-2896-41df-9ffa-4f583c9c7510)
 
